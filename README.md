@@ -2,7 +2,7 @@
 
 Hi, I’m Mike — a gameplay-focused modder and YouTube content creator.
 
-I to balance, refine, and overhaul gameplay systems to create deeper, more immersive player experiences. My work often focuses on survival games and sandbox systems, with an emphasis on realism, challenge, and player agency.
+I try to balance, refine, and overhaul gameplay systems to create deeper, more immersive player experiences. My work often focuses on survival games and sandbox systems, with an emphasis on realism, challenge, and player agency.
 
 ***
 
