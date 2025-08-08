@@ -8,7 +8,7 @@ I try to balance, refine, and overhaul gameplay systems to create deeper, more i
 
 ### 🔧 Modding Projects
 
-**🎯 Featured Mod:**\
+**🎯 Featured Mod:**
 > Removes intrusive visual effects from the 2.0 Progression system to improve visibility and reduce player fatigue.
  
 📌 [Screen Effects Be Gone (7 Days to Die)](https://www.nexusmods.com/7daystodie/mods/8238?tab=files)
