@@ -25,7 +25,7 @@ I try to balance, refine, and overhaul gameplay systems to create deeper, more i
 
 📂[Download on GitHub](https://github.com/Kraevac/SoundEffectsBeGone_Release)
 
-I'm currently developing a large-scale modular gameplay overhaul for *7 Days to Die*, focusing on biome difficulty progression, zombie spawn logic, crafting systems, and narrative-driven content.
+I'm currently developing a large-scale gameplay mechanic for *7 Days to Die*, focusing on a new (de)buff system to increase realism and add a little more danger to the gameplay loop.
 
 ***
 
@@ -38,7 +38,7 @@ Tutorials and playthroughs videos.
 
 ### 🧩 Platforms
 
-- 🔨 [Nexus Mods Profile]([You're Here](https://next.nexusmods.com/profile/DemonataGaming))
+- 🔨 [Nexus Mods Profile](https://next.nexusmods.com/profile/DemonataGaming)
 - 🧪 GitHub (You're Here)
 
 ***
